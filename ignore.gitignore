@@ -1,0 +1,16 @@
+*.exe
+*.dll
+*.obj
+*.pdb
+*.lib
+*.idb
+*.ilk
+*.log
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.userprefs
+*.vs
+*.vscode
+*.code-workspace
