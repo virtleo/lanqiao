@@ -1,3 +1,19 @@
+*.exe
+*.dll
+*.obj
+*.pdb
+*.lib
+*.idb
+*.ilk
+*.log
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.userprefs
+*.vs
+*.vscode
+*.code-workspace
 # 忽略所有目录下的特定文件类型
 **/*.exe
 **/*.dll
